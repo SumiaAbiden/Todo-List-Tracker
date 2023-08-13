@@ -34,10 +34,6 @@ def remove_from_todo_list(num):
     todo.write(new_todo)
     todo.close()
 
-        
-    
-
-
 
 def main():
     '''
